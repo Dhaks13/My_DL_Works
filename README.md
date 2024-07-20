@@ -1,7 +1,7 @@
 # DL_using_PyTorch
 
-Learning Resource: 
+Learning Resource: <br>
 https://www.youtube.com/watch?v=V_xro1bcAuA
- Course materials online: https://learnpytorch.io
- https://pytorch.org/
+<br> Course materials online: https://learnpytorch.io
+<br> https://pytorch.org/
  
