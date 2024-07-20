@@ -1,6 +1,8 @@
-# DL_using_PyTorch
+# My_DL_Works
 
-Learning Resource: <br>
+## Repo for my DL Learning and Projects
+
+### Learning Resource: <br>
 https://www.youtube.com/watch?v=V_xro1bcAuA
 <br> Course materials online: https://learnpytorch.io
 <br> https://pytorch.org/
