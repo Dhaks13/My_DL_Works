@@ -13,3 +13,4 @@ https://www.youtube.com/watch?v=V_xro1bcAuA
  
 
 ## Salvo
+1. Plant Disease Classification
