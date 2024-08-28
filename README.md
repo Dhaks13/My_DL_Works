@@ -1,9 +1,7 @@
-# DL_using_PyTorch
+# Deep Learning with PyTorch
 My Works in Deep Learning
 
-## Learning Resource: <br>
+## Projects
+1. Brain Tumor Segmentation
 
-https://www.youtube.com/watch?v=V_xro1bcAuA
-<br> Course materials online: https://learnpytorch.io
-<br> https://pytorch.org/
- 
+## Learnings
