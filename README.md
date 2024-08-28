@@ -5,7 +5,6 @@ My Works in Deep Learning
 1. Brain Tumor Segmentation
 
 ## Learnings
-# Learings
 1. PyTorch Fundamentals
 2. PyTorch Workflow
 3. NN - creating Neural Networks
