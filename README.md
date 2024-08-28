@@ -8,6 +8,6 @@ My Works in Deep Learning
 # Learings
 1. PyTorch Fundamentals
 2. PyTorch Workflow
-3. PyTorch - creating Neural Networks
+3. NN - creating Neural Networks
 4. Computer Vision
-5. Salvo works
+5. Salvo -club works
