@@ -11,9 +11,9 @@ https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 
 >**Skip Connections**: These connections bypass one or more layers, allowing the network to learn an identity function if it is optimal, thus preventing the degradation problem in very deep networks.
 
-**Convolution Layer**: A single convolutional layer followed by a batch normalization and ReLU activation.
+**Convolution Block**: A single convolutional layer followed by a batch normalization and ReLU activation.
 
-![Convolution Layer](https://github.com/user-attachments/assets/2295a947-d71c-48c5-a1e7-24c84204cf07)
+![Convolution Block](https://github.com/user-attachments/assets/d3de83b7-95ac-4b7a-8b59-450302209800)
 
 **BasicBlock**: Defines the residual block used in ResNet-12. Each block consists of two convolutional layers.
 
